@@ -23,6 +23,11 @@ a:focus {
 	outline: none;
 }
 
+mark{
+	background: linear-gradient(to right, pink, transparent, pink);
+	padding: 5px;
+}
+
 .container-fluid { width: 100%; } /* IE fix */
 
 .cd-hero-slider .cd-full-width { padding-top: 0; }
